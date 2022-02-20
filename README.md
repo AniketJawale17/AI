@@ -1,2 +1,2 @@
 # AI
-It is practice repository for AIML model using github
+It is repository for AIML practice
